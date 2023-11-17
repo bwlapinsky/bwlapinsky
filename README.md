@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...getting started with programming and development.
+- 🌱 I’m currently learning ...everything from the bottom up.
+- 👯 I’m looking to collaborate on ...anything I can learn from.
+- 🤔 I’m looking for help with ...all of it, seeking advice on every subject.
+- 💬 Ask me about ...what I can do to help you.
+- 📫 How to reach me: ...bwlapinsky@icloud.com
+- ⚡ Fun fact: ...bananas are berries, but strawberries aren't. 
 <!--
 **bwlapinsky/bwlapinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
